@@ -1,0 +1,13 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    color: turquoise;
+    text-align: center;
+}
+
+#weatherResults {
+    padding-left: 5px;
+}
